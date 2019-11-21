@@ -69,7 +69,7 @@ double-click the search result or hit <kbd>Enter</kbd>
 After you have launched Terminal, type the command to launch the JupyerLab server.
 
 ~~~
-$ conda activate
+$ source activate
 $ jupyter lab
 ~~~
 {: .bash}
