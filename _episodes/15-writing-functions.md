@@ -453,7 +453,7 @@ What is the default value of the second parameter of the built-in function 'roun
 > > 1.
 > >
 > > ~~~
-> > prop = (colicin.loc['end'] - colicin.loc['start']) / colicin.loc['length']
+> > prop = (colicin.loc['End'] - colicin.loc['Start']) / colicin.loc['Length']
 > > ~~~
 > > {: .language-python}
 > >
@@ -463,7 +463,7 @@ What is the default value of the second parameter of the built-in function 'roun
 > >  def proportional_length(proteinId):
 > >     df = pd.read_csv('data/DisProt_data_Escherichia-coli.csv', index_col='UniProt ACC')
 > >     protein = df.loc[proteinId]
-> >     prop = (protein.loc['end'] - protein.loc['start']) / protein.loc['length']
+> >     prop = (protein.loc['End'] - protein.loc['Start']) / protein.loc['Length']
 > >     return prop
 > > ~~~
 > > {: .language-python}
