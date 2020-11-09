@@ -1,5 +1,5 @@
 # Disordered proteins, explained
-Training material on Intrinsically Disordered Proteins (IDPs).
+Training material on Intrinsically Disordered Proteins (IDPs), originally developed for The Carpentries course "Disordered proteins with Python", 21-22 Nov 2019, Buenos Aires (AR).
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/) 
 
